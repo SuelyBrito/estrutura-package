@@ -12,14 +12,14 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package
 ```bash
 pip install package_name
 ```
-Package_name/
-│
-├── README.md
-├── setup.py
-├── package_name_image/
-│   ├── __init__.py
-│   ├── processamento.py
-│   │── transferir1.jpg
+# Package_name
+* │
+* ├── README.md
+* ├── setup.py
+* ├── package_name_image/
+* │   ├── __init__.py
+* │   ├── processamento.py
+* │   │── transferir1.jpg
 
 
 ## Usage
